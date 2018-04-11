@@ -36,3 +36,8 @@ body { background-color:#FEF1A8 ;
 .left {
 		float: left;
 	}	
+table {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+} 
